@@ -1,0 +1,38 @@
+.admin-div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.admin-panel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-lesson-edit-list {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.admin-lesson-input {
+  width: 30%;
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.admin-lesson-edit-list-item {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+

@@ -1,0 +1,5 @@
+.student-lesson-list-div {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
