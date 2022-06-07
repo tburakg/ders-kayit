@@ -16,7 +16,7 @@ export const lessonsData = [
   {
     id: 3,
     name: "Web Tasarim",
-    code: "aasdasd",
+    code: "BIL303",
     credit: 4,
     grade: 3,
   },
