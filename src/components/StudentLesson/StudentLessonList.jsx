@@ -10,7 +10,7 @@ const StudentLessonList = (props) => {
       setSelectedLessons([...selectedLessons, lesson]);
       console.log("add", lesson);
     } else {
-      alert("Hoop kardesim nabiyon???");
+      alert("Kredi Aşılamaz.");
     }
   };
 
